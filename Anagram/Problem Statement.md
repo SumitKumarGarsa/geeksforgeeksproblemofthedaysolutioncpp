@@ -23,3 +23,4 @@ Input: s1 = "g", s2 = "g"
 Output: true
 Explanation: Character in both the strings are same, so they are anagrams.
 ```
+Solution : ![Screenshot 2024-11-30 003814](https://github.com/user-attachments/assets/e1be9972-b4e4-454d-acd6-28595b08239b)
